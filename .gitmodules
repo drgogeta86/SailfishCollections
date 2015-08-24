@@ -1,0 +1,201 @@
+[submodule "harbour-saera.desktop"]
+	path = saera
+	url = https://github.com/taixzo/saera.git
+[submodule "harbour-cowsay.desktop"]
+	path = sailfish-cowsay
+	url = https://github.com/zeburon/sailfish-cowsay.git
+[submodule "harbour-dailycomics.desktop"]
+	path = daily-comics
+	url = https://github.com/tardypad/daily-comics.git
+[submodule "harbour-simpleweather.desktop"]
+	path = simpleweather
+	url = https://github.com/Acce0ss/simpleweather.git
+[submodule "harbour-modrana.desktop"]
+	path = modrana
+	url = https://github.com/M4rtinK/modrana.git
+[submodule "harbour-meecast.desktop"]
+	path = meecast
+	url = https://github.com/Meecast/meecast.git
+[submodule "quandoparte.desktop"]
+	path = quandoparte
+	url = https://github.com/mikelima/quandoparte.git
+[submodule "displaytime.desktop"]
+	path = displaytime
+	url = https://github.com/a-dekker/displaytime.git
+[submodule "harbour-gpsinfo.desktop"]
+	path = sailfish-gpsinfo
+	url = https://github.com/balta3/sailfish-gpsinfo.git
+[submodule "harbour-orienteeringcompass.desktop"]
+	path = harbour-orienteeringcompass
+	url = https://github.com/vuorisalmi/harbour-orienteeringcompass.git
+[submodule "harbour-measuretool.desktop"]
+	path = Measure-Tool
+	url = https://github.com/MikeL83/Measure-Tool.git
+[submodule "harbour-screentapshot.desktop"]
+	path = harbour-screentapshot
+	url = https://github.com/CODeRUS/harbour-screentapshot.git
+[submodule "harbour-textractor.desktop"]
+	path = Textractor
+	url = https://github.com/skvark/Textractor.git
+[submodule "harbour-cargodock.desktop"]
+	path = cargodock
+	url = https://github.com/pycage/cargodock.git
+[submodule "harbour-barcode.pro"]
+	path = sailfish-barcode
+	url = https://github.com/steffen-foerster/sailfish-barcode.git
+[submodule "harbour-paint.desktop"]
+	path = paint
+	url = https://github.com/kimmoli/paint.git
+[submodule "harbour-filters.desktop"]
+	path = harbour-filters
+	url = https://github.com/mholo65/harbour-filters.git
+[submodule "harbour-trulyyours.desktop"]
+	path = TrulyYours
+	url = https://github.com/matrixx/TrulyYours.git
+[submodule "harbour-sailimgur.desktop"]
+	path = sailimgur
+	url = https://github.com/walokra/sailimgur.git
+[submodule "harbour-sailgrande.desktop"]
+	path = sailgrande
+	url = https://github.com/florianwittmann/sailgrande.git
+[submodule "TVHeadFish.desktop"]
+	path = TVHeadFish
+	url = https://github.com/goroboro/TVHeadFish.git
+[submodule "harbour-twitchtube.desktop"]
+	path = TwitchTube
+	url = https://github.com/Aldrog/TwitchTube.git
+[submodule "harbour-moviesme.desktop"]
+	path = movies-me
+	url = http://gitlab.unique-conception.org/apps-4-sailfish/movies-me.git
+[submodule "harbour-seriesme.desktop"]
+	path = series-me
+	url = http://gitlab.unique-conception.org/apps-4-sailfish/series-me.git
+[submodule "harbour-videoPlayer.desktop"]
+	path = videoPlayer
+	url = https://github.com/llelectronics/videoPlayer.git
+[submodule "harbour-kodimote.desktop"]
+	path = kodimote
+	url = https://github.com/mzanetti/kodimote.git
+[submodule "harbour-ytplayer.desktop"]
+	path = sailfish-ytplayer
+	url = https://github.com/tworaz/sailfish-ytplayer.git
+[submodule "pebble.desktop"]
+	path = pebble
+	url = https://github.com/smokku/pebble.git
+[submodule "harbour-billybass.desktop"]
+	path = billybass
+	url = https://github.com/kimmoli/billybass.git
+[submodule "harbour-space-inspector.desktop"]
+	path = space-inspector
+	url = https://github.com/jklingen/space-inspector.git
+[submodule "harbour-systemmonitor.desktop"]
+	path = harbour-systemmonitor
+	url = https://github.com/custodian/harbour-systemmonitor.git
+[submodule "Messwerk.desktop"]
+	path = Messwerk
+	url = https://github.com/Bytewerk/Messwerk.git
+[submodule "harbour-sailhn.desktop"]
+	path = harbour-SailHN
+	url = https://gitlab.com/ilpianista/harbour-SailHN.git
+[submodule "harbour-papocchio.desktop"]
+	path = harbour-Papocchio
+	url = https://gitlab.com/ilpianista/harbour-Papocchio.git
+[submodule "harbour-gagbook.desktop"]
+	path = GagBook
+	url = https://github.com/dicksonleong/GagBook.git
+[submodule "harbour-feedme.desktop"]
+	path = feed-me
+	url = http://gitlab.unique-conception.org/apps-4-sailfish/feed-me.git
+[submodule "harbour-tidings.desktop"]
+	path = tidings
+	url = https://github.com/pycage/tidings.git
+[submodule "harbour-wifianalyser.desktop"]
+	path = harbour-wifianalyzer
+	url = https://github.com/osanwe/harbour-wifianalyzer.git
+[submodule "ISODrive.desktop"]
+	path = ISODrive
+	url = https://github.com/beidl/ISODrive.git
+[submodule "harbour-webcat.desktop"]
+	path = webcat
+	url = https://github.com/llelectronics/webcat.git
+[submodule "harbour-communi.desktop"]
+	path = communi-sailfish
+	url = https://github.com/communi/communi-sailfish.git
+[submodule "harbour-sailonjamendo.desktop"]
+	path = SailOnJamendo
+	url = https://github.com/JLugagne/SailOnJamendo.git
+[submodule "harbour-cutespot.desktop"]
+	path = cutespotify
+	url = https://github.com/Elleo/cutespotify.git
+[submodule "harbour-sailsoma.desktop"]
+	path = sailsoma
+	url = https://github.com/andreagrandi/sailsoma.git
+[submodule "harbour-smpc.desktop"]
+	path = smpc
+	url = https://github.com/djselbeck/smpc.git
+[submodule "harbour-recorder.desktop"]
+	path = sailfish-recorder
+	url = https://github.com/cornedor/sailfish-recorder.git
+[submodule "harbour-sailwave.desktop"]
+	path = harbour-sailwave
+	url = https://github.com/ejjoman/harbour-sailwave.git
+[submodule "harbour-org.gpodder.sailfish.desktop"]
+	path = gpodder-sailfish
+	url = https://github.com/gpodder/gpodder-sailfish.git
+[submodule "harbour-books.desktop"]
+	path = harbour-books
+	url = https://github.com/monich/harbour-books.git
+[submodule "harbour-quotes.desktop"]
+	path = harbour-quotes
+	url = https://github.com/mparusinski/harbour-quotes.git
+[submodule "harbour-bluewhale.desktop"]
+	path = bluewhale
+	url = https://github.com/locusf/bluewhale.git
+[submodule "harbour-noto.desktop"]
+	path = noto
+	url = https://github.com/llelectronics/noto.git
+[submodule "harbour-workinghourstracker.desktop"]
+	path = wht
+	url = https://github.com/olpeh/wht.git
+[submodule "harbour-rena.desktop"]
+	path = rena
+	url = https://github.com/Simoma/rena.git
+[submodule "harbour-maep-qt.desktop"]
+	path = maep-qt
+	url = https://github.com/dcaliste/maep-qt.git
+[submodule "harbour-foursail.desktop"]
+	path = foursail
+	url = https://github.com/jmlich/foursail.git
+[submodule "Miataru.desktop"]
+	path = miataru-sailfishos
+	url = https://github.com/aheil/miataru-sailfishos.git
+[submodule "harbour-sailcompass.desktop"]
+	path = harbour-sailcompass
+	url = https://github.com/peterparker2k/harbour-sailcompass.git
+[submodule "harbour-poor-maps.desktop"]
+	path = poor-maps
+	url = https://github.com/otsaloma/poor-maps.git
+[submodule "harbour-meecalc.desktop"]
+	path = harbour-meecalc
+	url = https://github.com/monich/harbour-meecalc.git
+[submodule "harbour-valuelogger.desktop"]
+	path = valuelogger
+	url = https://github.com/kimmoli/valuelogger.git
+[submodule "harbour-scientific-calculator.desktop"]
+	path = sailfish-calculator
+	url = https://github.com/rferrazz/sailfish-calculator.git
+[submodule "harbour-speedcrunch.desktop"]
+	path = speedcrunch-mobile
+	url = https://github.com/qwazix/speedcrunch-mobile.git
+[submodule "harbour-warehouse.desktop"]
+	path = orn-warehouse
+	url = https://github.com/custodian/orn-warehouse.git
+[submodule "harbour-hangish.desktop"]
+	path = hangish
+	url = https://github.com/rogora/hangish.git
+[submodule "harbour-sailotp.desktop"]
+	path = sailotp
+	url = https://github.com/seiichiro0185/sailotp.git
+[submodule "harbour-docscanner.desktop"]
+	path = Doc-Scanner
+	url = https://github.com/MikeL83/Doc-Scanner.git
